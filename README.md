@@ -45,10 +45,6 @@ I'm currently trying to find time to code. 🎶<br>French Mathematics degree stu
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Firelack/Firelack/output/snake.svg" alt="Snake animation" />
-
 <div align="right">
   <img src="https://profile-counter.glitch.me/Firelack/count.svg?"  />
 </div>
