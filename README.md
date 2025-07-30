@@ -44,7 +44,3 @@ I'm currently trying to find time to code. 🎶<br>French Mathematics degree stu
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<div align="right">
-  <img src="https://profile-counter.glitch.me/Firelack/count.svg?"  />
-</div>
