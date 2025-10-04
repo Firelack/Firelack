@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently trying to find time to code. 🎶<br>French Mathematics degree student. ✨
+I'm currently trying to find time to code. 🎶<br>French Mathematics degree student. ✨ <br>I especially like coding, skiing, math, video games and sports !
 
 # 💻 Tech Stack:
 <div align="left">
