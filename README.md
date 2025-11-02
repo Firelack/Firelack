@@ -42,6 +42,8 @@ I'm currently trying to find time to code. 🎶<br>French Mathematics degree stu
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Firelack&theme=radical&hide_border=false" height="150" alt="contributions graph" />
 </div>
 
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/Firelack/Firelack/output/github-contribution-grid-snake.svg" />
+
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
