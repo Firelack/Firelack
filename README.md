@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm currently trying to find time to code. 🎶<br>French Mathematics degree student. ✨ <br>I especially like coding, skiing, math, video games and sports !
 
+[![Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/social/discord-singular_46h.png)](https://discord.gg/kpwmtkKBdz)
+
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -36,10 +38,8 @@ I'm currently trying to find time to code. 🎶<br>French Mathematics degree stu
 
 # 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firelack&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Firelack&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</div>
+![](https://nirzak-streak-stats.vercel.app/?user=Firelack&theme=github_dark&hide_border=true)
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Firelack&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Firelack/Firelack/refs/heads/output/github-snake-dark.svg" />
 
