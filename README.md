@@ -2,6 +2,8 @@
 I'm currently trying to find time to code. 🎶<br>French Mathematics degree student. ✨ <br>I especially like coding, skiing, math, video games and sports !
 
 [![Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/social/discord-singular_46h.png)](https://discord.gg/kpwmtkKBdz)
+[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_46h.png)](https://modrinth.com/user/Firelack)
+[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/curseforge_46h.png)](https://www.curseforge.com/members/firelack/projects)
 
 # 💻 Tech Stack:
 <div align="left">
